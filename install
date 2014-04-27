@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp -rv lovely-clock@kragniz.eu ~/.local/share/gnome-shell/extensions/
+gsettings set org.gnome.shell enabled-extensions "['lovely-clock@kragniz.eu']"
