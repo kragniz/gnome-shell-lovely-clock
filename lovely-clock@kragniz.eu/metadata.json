@@ -4,5 +4,6 @@
     "shell-version": [
         "3.10"
     ],
+    "url": "https://github.com/kragniz/gnome-shell-lovely-clock",
     "uuid": "lovely-clock@kragniz.eu"
 }
