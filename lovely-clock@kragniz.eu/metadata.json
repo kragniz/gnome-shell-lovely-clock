@@ -2,7 +2,7 @@
     "description": "Shows the time where your heart is",
     "name": "Lovely Clock",
     "shell-version": [
-        "3.10.4"
+        "3.10"
     ],
     "uuid": "lovely-clock@kragniz.eu"
 }
