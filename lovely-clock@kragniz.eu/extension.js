@@ -11,7 +11,7 @@ function date_offset(offset) {
 }
 
 const update_clock = function() {
-    let dateFormat = "%a %H:%M ❤ ";
+    let dateFormat = "%H:%M ❤ ";
     let localDate = new Date();
     let farAwayDate = date_offset(-4);
     let text = localDate.toLocaleFormat(dateFormat) + farAwayDate.toLocaleFormat("%H:%M");
